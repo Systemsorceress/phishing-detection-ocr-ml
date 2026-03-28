@@ -99,7 +99,7 @@ Malaika Arif
 
 ---
 
-# ✅ STEP 5 — requirements.txt
+# ✅ requirements.txt
 
 Create file:
 
