@@ -1,0 +1,9 @@
+timestamp,event,x,y,window_title,ocr_text
+2025-10-29T04:48:47.473761,click,834,674,tk,
+2025-10-29T04:48:53.696714,click,1756,851,C:\Windows\System32\cmd.exe - python  screen_monitor.py,
+2025-10-29T04:48:55.284104,click,1871,933,screen_monitor.py - Notepad,
+2025-10-29T04:49:01.985234,click,912,529,screen_monitor.py - Notepad,
+2025-10-29T04:49:02.983692,click,511,870,screen_monitor.py - Notepad,
+2025-10-29T04:49:04.260687,click,926,1077,AI Proj,
+2025-10-29T04:49:05.354386,click,864,1074,screen_monitor.py - Notepad,
+2025-10-29T04:53:55.131187,click,1142,829,tk,
