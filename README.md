@@ -73,7 +73,8 @@ The hybrid ML model significantly outperforms rule-based detection:
 ```bash
 pip install -r requirements.txt
 python src/screen_monitor.py
-
+```
+---
 ⚠️ Limitations
 Dependent on OCR quality
 Cannot detect image-only phishing
